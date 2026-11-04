@@ -8,3 +8,4 @@ Contents
 
 1. `dog-size-report.pdf` A report of my analysis and findings
 2. `dog_size_markdown.ipynb` A markdown file that describes the steps and code to reproduce the results described in the dog-size-report
+3. `keep_r0.2.txt` A list of the 408,230 SNPs used to construct the panel_r0.2 PLINK dataset (7.6 MB).
